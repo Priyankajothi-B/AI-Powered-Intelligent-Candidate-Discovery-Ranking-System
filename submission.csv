@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0046064,1,161.93,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0081846,2,149.1,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0018499,3,149.02,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0055905,4,147.88,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0002025,5,143.05,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0071974,6,142.72,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0011687,7,141.43,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0033861,8,140.14,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0086022,9,138.58,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0077337,10,138.17,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0046525,11,138.15,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0005260,12,135.53,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0094759,13,135.02,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0039754,14,134.31,Very strong semantic match; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0079387,15,134.16,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0007411,16,131.45,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0092278,17,131.15,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0008425,18,130.79,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0041611,19,130.12,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0005649,20,125.89,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0044883,21,123.94,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0088025,22,121.88,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0028793,23,121.7,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0083307,24,120.47,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0017960,25,120.24,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0053591,26,120.13,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0044855,27,119.01,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0041669,28,118.75,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0079064,29,118.69,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0080766,30,118.03,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems; Evaluation framework experience
+CAND_0052328,31,117.71,Strong semantic match; Ideal experience; Product company experience
+CAND_0064326,32,117.63,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0007009,33,117.44,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0069905,34,117.44,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0052682,35,117.28,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0061265,36,115.3,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0093547,37,115.3,Very strong semantic match; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0044222,38,114.84,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0065195,39,114.29,Strong semantic match; Ideal experience; Product company experience
+CAND_0050454,40,113.65,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0093912,41,113.6,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0058688,42,112.81,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0077285,43,112.54,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0057563,44,112.45,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0010685,45,112.05,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0042506,46,111.99,Strong semantic match; Product company experience; Retrieval and ranking systems
+CAND_0037566,47,111.91,Strong semantic match; Ideal experience; Product company experience
+CAND_0013613,48,111.57,Strong semantic match; Product company experience; Retrieval and ranking systems
+CAND_0062247,49,111.26,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0051292,50,111.13,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0060054,51,111.05,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0095528,52,110.99,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0020877,53,110.92,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0030953,54,110.86,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0010257,55,110.8,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0075574,56,110.7,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0060072,57,110.55,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0039383,58,110.25,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0066376,59,110.23,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0081053,60,110.04,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0055992,61,109.67,Very strong semantic match; Product company experience; Retrieval and ranking systems
+CAND_0086151,62,109.4,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0006557,63,109.39,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0094056,64,109.23,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0058575,65,109.11,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0030031,66,108.86,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0081686,67,108.83,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0068811,68,108.56,Strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0027801,69,108.52,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0070398,70,108.15,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0053695,71,108.12,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0041568,72,108.1,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0040117,73,107.77,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0037980,74,107.74,Very strong semantic match; Ideal experience; Product company experience; Production ML systems
+CAND_0074735,75,107.58,Strong semantic match; Ideal experience; Product company experience
+CAND_0018722,76,107.46,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0098846,77,107.31,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0007412,78,107.25,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0089552,79,107.04,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0075249,80,106.91,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0029367,81,106.85,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0076251,82,106.45,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0040887,83,106.25,Strong semantic match; Product company experience; Retrieval and ranking systems
+CAND_0027691,84,105.9,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0020708,85,105.58,Strong semantic match; Product company experience; Retrieval and ranking systems
+CAND_0052335,86,105.17,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0081852,87,105.13,Strong semantic match; Ideal experience; Product company experience
+CAND_0041610,88,104.87,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0078002,89,104.82,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0065878,90,104.69,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0024620,91,104.57,Very strong semantic match; Ideal experience; Product company experience
+CAND_0075439,92,104.48,Very strong semantic match; Product company experience; Retrieval and ranking systems
+CAND_0049896,93,104.41,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0005538,94,104.32,Very strong semantic match; Ideal experience; Product company experience; Production ML systems; Retrieval and ranking systems
+CAND_0096172,95,104.06,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0050876,96,103.88,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0087630,97,103.73,Very strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0096142,98,103.71,Strong semantic match; Ideal experience; Product company experience; Retrieval and ranking systems
+CAND_0043860,99,103.32,Very strong semantic match; Ideal experience; Product company experience
+CAND_0068351,100,103.26,Very strong semantic match; Ideal experience; Product company experience; Production ML systems
